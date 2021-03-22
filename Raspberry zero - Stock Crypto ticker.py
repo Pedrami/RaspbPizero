@@ -1,4 +1,4 @@
-__author__ = 'PROT'
+__author__ = 'Pedrami'
 import pygame
 import requests
 from bs4 import BeautifulSoup
